@@ -35,3 +35,8 @@ mvnw
 mvnw.cmd
 target/
 .mvn/
+
+.env
+.env.local
+.env.*.local
+application-local.properties
